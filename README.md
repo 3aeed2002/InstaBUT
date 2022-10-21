@@ -28,3 +28,6 @@
     
     cmd or terminal
         python InstaBOT.py
+ 
+ To send your personal message in Direct, write your desired message in line 289 and save the program.
+ ......................................................        
