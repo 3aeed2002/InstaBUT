@@ -287,7 +287,7 @@ class InstaBot:
 
                 #your message file
                 mess = ''' 
-                       your message
+                      write your message
                     '''
 
                 #send message to box
