@@ -3,7 +3,7 @@
 #   Instagram pages :
 #       saeed_abszd_81  ,,,,,  instarobot.py
 
-import selenium 
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -210,7 +210,7 @@ class InstaBot:
             print('len of username`s to unfollow : ' , len(unilin))    
 
             z = 1
-            #start Following usernames
+            #start unFollowing usernames
             for usr in unilin:
                 try:
                 
